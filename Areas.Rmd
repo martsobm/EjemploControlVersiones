@@ -24,13 +24,21 @@ AreaCuadrado <- Lado^2
 # Area triángulo
 ```{r}
 Base<-3
-Altura<-
+Altura<-2
 AreaTriangulo <- (Base*Altura)/2
 ```
 
 # Area rectángulo
 ```{r}
 Base<-3
-Altura<-
+Altura<-2
 AreaTriangulo <- (Base*Altura)
+```
+
+# Area trapecio
+```{r}
+Base<-3
+base<-2
+Altura<-2
+AreaTrapecio <- (Altura*(Base+base)/2)
 ```
